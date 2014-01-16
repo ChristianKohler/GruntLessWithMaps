@@ -1,0 +1,10 @@
+{
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-less": "latest"
+    "grunt-contrib-watch": "latest"
+  }
+}
